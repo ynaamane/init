@@ -1,0 +1,3 @@
+Nous pouvons excuter cette commande pour voir les services lance au demanrrage ls /etc/rc*.d
+
+Ses services s'appelle des daemons

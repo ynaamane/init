@@ -1,0 +1,3 @@
+su
+userdel test
+userdel -r test

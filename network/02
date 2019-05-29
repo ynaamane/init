@@ -1,1 +1,2 @@
-ipconfig getifaddr en0
+ifconfig -L en0
+ping 10.11.255.255 | arp -a
